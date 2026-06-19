@@ -1,0 +1,17 @@
+{
+  "_comment": "Example body — browser OCR extracts contact fields; user adds eventName and notes on Review page; frontend POSTs to /api/leads/sync-from-local",
+  "fullName": "Sandeep Saliganti",
+  "firstName": "Sandeep",
+  "lastName": "Saliganti",
+  "designation": "Developer",
+  "company": "CardSync Demo",
+  "phone": "+919884993074",
+  "email": "saligantisandeepzzz6@gmail.com",
+  "website": "https://cardsync.ai",
+  "address": "Hyderabad, India",
+  "eventName": "Mall Opening",
+  "notes": "Met at booth — follow up next week.",
+  "connectionMode": "online",
+  "skipWhatsApp": true,
+  "skipEmail": false
+}

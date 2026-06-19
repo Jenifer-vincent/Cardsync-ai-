@@ -1,0 +1,21 @@
+{
+  "name": "cardsync_contact_saved",
+  "category": "UTILITY",
+  "language": "en_US",
+  "components": [
+    {
+      "type": "BODY",
+      "text": "Hello {{1}},\n\nWe received your business card and saved your details:\n\n• Name: {{2}}\n• Company: {{3}}\n• Title: {{4}}\n\nThank you for connecting with us!",
+      "example": {
+        "body_text": [
+          [
+            "Yogesh",
+            "Yogesh V R",
+            "CardSync AI",
+            "Founder"
+          ]
+        ]
+      }
+    }
+  ]
+}

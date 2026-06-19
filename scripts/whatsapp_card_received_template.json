@@ -1,0 +1,24 @@
+{
+  "name": "cardsync_card_received",
+  "category": "UTILITY",
+  "language": "en",
+  "components": [
+    {
+      "type": "BODY",
+      "text": "Hello {{1}},\n\nThank you for sharing your business card. We saved your details in CardSync:\n\nName: {{2}}\nCompany: {{3}}\nTitle: {{4}}\nEmail: {{5}}\nWebsite: {{6}}\nAddress: {{7}}\n\nWe glad, Connecting with you.",
+      "example": {
+        "body_text": [
+          [
+            "Yogesh",
+            "Yogesh VR",
+            "CardSync AI",
+            "Founder",
+            "yogesh@cardsync.ai",
+            "https://cardsync.ai",
+            "Hyderabad, India"
+          ]
+        ]
+      }
+    }
+  ]
+}
