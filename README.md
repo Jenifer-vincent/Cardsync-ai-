@@ -39,3 +39,22 @@ This project solves these challenges by automatically extracting contact details
 
 As a Software Developer Intern at Ulavi Technology, I contributed to the development of a Business Card Automation System focused on intelligent contact management. My responsibilities included backend development, OCR workflow implementation, database integration, contact organization features, and automation logic to improve user productivity and networking efficiency.
 
+## Application Screenshots
+
+### Card Scanning
+![Card Scanner](<img width="842" height="403" alt="Scanner module" src="https://github.com/user-attachments/assets/95ddd37f-7d43-4281-bc7f-c5f36dfbb208" />)
+
+### Extraction Results
+![OCR Results](<img width="840" height="429" alt="Field extraction module" src="https://github.com/user-attachments/assets/d3b4feeb-c805-4878-8320-c316812d0d1b" />)
+
+### Event Tagging
+![Event Tags](<img width="837" height="376" alt="Event manager folder" src="https://github.com/user-attachments/assets/3dfa3c4e-199d-45fa-aba4-fd42c6d33010" />)
+
+### Voice Notes
+![Voice Notes](screenshots/voicenotes.png)
+
+## Author
+
+Jenifer V
+
+Aspiring AI/ML Engineer
